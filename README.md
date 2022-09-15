@@ -1,0 +1,1 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/903548123257909249?theme=dark&animated=true&hideDiscrim=true&hideBadges=false&borderRadius=7px&idleMessage=I%20was%20not%20doing%20anything)](https://discord.com/users/903548123257909249)
